@@ -6,7 +6,8 @@ _Carnegie Mellon University_
 [Project Page](https://jasonjzliu.com/factr/) | [arXiV](https://arxiv.org/abs/2502.17432) | [FACTR](https://github.com/RaindragonD/factr/) | [FACTR Teleop](https://github.com/RaindragonD/factr/)
 
 <h1> </h1>
-<img src="media/factr_teleop.png" alt="teaser" width="600"/>
+<img src="media/figure_1.png" alt="teaser" height="300"/> <img src="media/figure_2.png" alt="teaser" height="300"/>
+
 
 <br>
 
