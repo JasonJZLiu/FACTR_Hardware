@@ -8,8 +8,8 @@ _Carnegie Mellon University_
 <h1> </h1>
 <!-- <img src="media/figure_1.png" alt="teaser" height="200"/> <img src="media/figure_2.png" alt="teaser" height="200"/> -->
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/figure_1.png" alt="teaser" height="200"/>
-  <img src="media/figure_2.png" alt="teaser" height="200"/>
+  <img src="media/figure_1.png" alt="teaser" height="300"/>
+  <img src="media/figure_2.png" alt="teaser" height="300"/>
 </div>
 
 <br>
