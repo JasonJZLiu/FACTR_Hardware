@@ -98,36 +98,36 @@ _Carnegie Mellon University_
     </tr>
     <tr>
       <td>M2.5×8mm</td>
-      <td>#</td>
+      <td>8</td>
       <td>N/A</td>
       <td rowspan="3">15.99</td>
       <td rowspan="3"><a href="https://www.amazon.com/NINDEJIN-Replacement-Computer-Miniature-Motherboard/dp/B08KXS2MWG/ref=sr_1_1_sspa?crid=2NVAZ4XAN3O2&dib=eyJ2IjoiMSJ9.zde0Rrsf9T_7G-uo4dB6ABc6Cjwvtn542RfotcCrKrvpyQYxphB2EbQjEGTwsP08d7CWl00KmjDuJVFQuNHbIIAsjCoZxKU18TIXQaUP0ppWkQ1_5fL0NkLm3Mh10ewzyIW7jZCWb1FwOIBS_z9TbihBJoMqb5w9ItBB6gfShFHpLh9SVrCVhgXAz1OMf267YAx96847NO0FVyXY-bVjf9nRCJ_H4A4Nu8NXlNcJuuOdfWL4aOTaJuMJ-JOWHS35A6DqghFqOu6hpEB25G5oNmd0JRcxPBfdSdNfHTtmDCE.izhqmXalArYdqS6Ag_oHXnGNkeLCB_QZmpLKuypHcD4&dib_tag=se&keywords=m2%2Bm2.5%2Bkit&qid=1743277446&s=industrial&sprefix=m2%2Bm2.5%2Bki%2Cindustrial%2C83&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">Purchase link</a></td>
     </tr>
     <tr>
       <td>M2×10mm</td>
-      <td>#</td>
+      <td>20</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>M2×6mm</td>
-      <td>#</td>
+      <td>14</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>M2×8mm (Self Tapping)</td>
-      <td>#</td>
+      <td>24</td>
       <td>N/A</td>
       <td rowspan="2">0</td>
       <td rowspan="2">Comes with Dynamixel XC330-T288-T Servo Motor</td>
     </tr>
     <tr>
       <td>M2×6mm (Self Tapping)</td>
-      <td>#</td>
+      <td>8</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>M2×4mm</td>
-      <td>#</td>
+      <td>4</td>
       <td>N/A</td>
       <td>0</td>
       <td>Comes with FPX330-S102 Servo Bracket</td>
@@ -307,7 +307,7 @@ Secure **Link 5** onto the servo horn of **Servo 5** using four **Screw C** scre
 
 <img src="media/link_5_1.png" width="600"/>
 
-Secure **Servo 6** onto **Linke 5** Using four **Screw B** screws. Install **Servo 6**'s idler. Connect
+Secure **Servo 6** onto **Link 5** Using four **Screw B** screws. Install **Servo 6**'s idler. Connect
 **Servo 6** to **Servo 5**.
 
 **Note:** Please ensure the orientation of the servo matches the image shown below, with the side of te servo horn facing the viewer
