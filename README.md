@@ -16,7 +16,7 @@ _Carnegie Mellon University_
 
 ## Catalog
 - [Bill of Materials](#bill-of-materials)
-- [Building Instructions](#building-instrutions)
+- [Building Instructions](#building-instructions)
 - [License and Acknowledgements](#license-and-acknowledgements)
 - [Citation](#citation)
 
@@ -356,12 +356,11 @@ of the version shown in the figures of the paper.
 ## License and Acknowledgements
 This source code is licensed under the Apache 2.0 liscence found in the LICENSE file in the root directory of this repository.
 
-This project builds on top of or utilizes the following third party dependencies.
-- [GELLO](https://wuphilipp.github.io/gello_site/): Inpiration for this work.
+Special thanks to the [GELLO](https://wuphilipp.github.io/gello_site/) project for serving as a source of inspiration for this work.
 
 
 ## Citation
-If you find this codebase useful, feel free to cite our work!
+If you find this project useful, feel free to cite our work!
 <div style="display:flex;">
 <div>
 
