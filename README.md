@@ -344,3 +344,32 @@ Connect **Servo 8** to **Servo 7**.
 Secure **Gripper Trigger** onto the servo horn of **Servo 8** using four **Screw C** screws.
 
 <img src="media/gripper_leader_3.png" width="600"/>
+
+**Note:** The gripper teleoperation leader presented here is a simplified and lighter update 
+of the version shown in the figures of the paper.
+
+#### Finished Assembly
+<img src="media/finished_assembly.png" width="600"/>
+
+
+
+## License and Acknowledgements
+This source code is licensed under the Apache 2.0 liscence found in the LICENSE file in the root directory of this repository.
+
+This project builds on top of or utilizes the following third party dependencies.
+- [GELLO](https://wuphilipp.github.io/gello_site/): Inpiration for this work.
+
+
+## Citation
+If you find this codebase useful, feel free to cite our work!
+<div style="display:flex;">
+<div>
+
+```bibtex
+@article{factr,
+  title={FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning},
+  author={Liu, Jason Jingzhou and Li, Yulong and Shaw, Kenneth and Tao, Tony and Salakhutdinov, Ruslan and Pathak, Deepak},
+  journal={arXiv preprint arXiv:2502.17432},
+  year={2025}
+}
+```
