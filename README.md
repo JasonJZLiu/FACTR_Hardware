@@ -90,18 +90,11 @@ _Carnegie Mellon University_
       <td><a href="https://www.amazon.com/dp/B088RDY284?ref_=cm_sw_r_cp_ud_dp_4ESS07CK5QSXK185XQEP&th=1">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>Bearing</td>
+      <td>3/4" Bearing</td>
       <td>1</td>
-      <td>#</td>
-      <td>#</td>
-      <td><a href="">Purchase Link</a></td>
-    </tr>
-    <tr>
-      <td>Robot Cable-X3P 180mm (10pcs)</td>
-      <td>1</td>
-      <td>19.00</td>
-      <td>19.00</td>
-      <td><a href="https://www.robotis.us/robot-cable-x3p-180mm-10pcs/">Purchase Link</a></td>
+      <td>6.99</td>
+      <td>6.99</td>
+      <td><a href="https://www.amazon.com/4-Pack-Bearings-Carbon-Steel-Wheelbarrows/dp/B0CFDNP445/ref=sr_1_2?crid=3QXEH16NYBJGQ&dib=eyJ2IjoiMSJ9.jLM5L_XNofXQklP0kRHnPt8LGL6NuiKPEHHiVxTCyfUfOsQ5qNZ7GVdyFu1mDotvHbejkU1ovy6yEyvpFNjpWS1tf3fDiWFq0lLgVT_CcyzjF7vLIIKvLUbKS-6ok-9R1AXcctPpIOaShRQtsYmAKB_cU1WkcZ8W-ACOYvSg27uVsINf2k5rtAG9Ule0wtRNnivmLloOwH6rdGlLvfKIiV3ONQ3l1DMrCH5OdQ785Ak.pYQImWW40-qGdc7W5adEhTWtXsq7y0TBbNxKT9d6mvM&dib_tag=se&keywords=bearing%2B1%2F4%22%2Bwheelbarrow&qid=1743356760&sprefix=bearing%2B1%2F4%2Bwheelbarro%2Caps%2C211&sr=8-2&th=1">Purchase Link</a></td>
     </tr>
     <tr>
       <td>M2.5×8mm</td>
@@ -175,6 +168,8 @@ The FACTR Teleoperation Franka Leader Arm assembly requires six types of screws:
 
 <img src="media/figure_4.png" width="600"/>
 
+**Note:** Alternative ways of supplying power to the **U2D2 Control PCB** and the servos without using **U2D2 Power Hub Board** are available. 
+Please refer to [here](https://emanual.robotis.com/docs/en/parts/interface/u2d2/) for more methods.
 
 ### Step 2: Update Servo IDs
 By default, all Dynamixel servos are set to ID 1. To control multiple servos with a single U2D2 controller, 
@@ -219,20 +214,20 @@ defined in the provided URDF file. This URDF file is used to compute gravity com
 
 The table below lists each part, its corresponding STL file, and its reference mass:
 
-| Part Name            | STL File                                         | Mass (g) |
-|----------------------|--------------------------------------------------|----------|
-| Base Link            | factr_teleop_franka_base.STL                     | 150      |
-| Link 1               | factr_teleop_franka_l1.STL                       | 31       |
-| Link 2               | factr_teleop_franka_l2.STL                       | 19       |
-| Link 3               | factr_teleop_franka_l3.STL                       | 29       |
-| Link 4               | factr_teleop_franka_l4.STL                       | 28       |
-| Link 5               | factr_teleop_franka_l5.STL                       | 25       |
-| Link 6               | factr_teleop_franka_l6.STL                       | 12       |
-| Gripper Handle       | factr_teleop_gripper_leader_handle.STL          | 21       |
-| Gripper Trigger      | factr_teleop_gripper_trigger.STL                | 5        |
-| Bearing              | N/A                                              | 39       |
-| Dynamixel XM430-W210-T | N/A                                            | 84       |
-| Dynamixel XC330-T288-T | N/A                                            | 23       |
+| Part Name              | STL File                                         | Mass (g) |
+|------------------------|--------------------------------------------------|----------|
+| Base Link              | factr_teleop_franka_base.STL                     | 150      |
+| Link 1                 | factr_teleop_franka_l1.STL                       | 31       |
+| Link 2                 | factr_teleop_franka_l2.STL                       | 19       |
+| Link 3                 | factr_teleop_franka_l3.STL                       | 29       |
+| Link 4                 | factr_teleop_franka_l4.STL                       | 28       |
+| Link 5                 | factr_teleop_franka_l5.STL                       | 25       |
+| Link 6                 | factr_teleop_franka_l6.STL                       | 12       |
+| Gripper Handle         | factr_teleop_gripper_leader_handle.STL           | 21       |
+| Gripper Trigger        | factr_teleop_gripper_trigger.STL                 | 5        |
+| 3/4" Bearing           | N/A                                              | 39       |
+| Dynamixel XM430-W210-T | N/A                                              | 84       |
+| Dynamixel XC330-T288-T | N/A                                              | 23       |
 
 
 
@@ -240,25 +235,25 @@ The table below lists each part, its corresponding STL file, and its reference m
 Follow the instructions below to assemble the leader arm, starting from the **base link** and progressing up to the **gripper teleoperation device**.
 
 #### Base Link
-Secure the **U2D2 Power Hub Board** on the **base link** and insert the bearing as follows. 
+Secure the **U2D2 Power Hub Board** on the **Base Link** and insert the **Bearing** as follows. 
 
 <img src="media/base_link_1.png" width="600"/>
 
-Slide **Servo 1** such that its servo horn is concentric with the bearing.
+Slide **Servo 1** such that its servo horn is concentric with the **Bearing**.
 
 <img src="media/base_link_2.png" width="600"/>
 
-On the under-side of the **base link**, secure **Servo 1** with four of **Screw B**. Connect **Servo 1** to the **U2D2 Power Hub Board**. 
+On the under-side of the **Base Link**, secure **Servo 1** with four **Screw B** screws. Connect **Servo 1** to the **U2D2 Power Hub Board**. 
 
 <img src="media/base_link_3.png" width="600"/>
 
 
 #### Link 1
-Insert **Link 1** fully into the bearing. Secure **Link 1** onto the servo horn of **Servo 1** using four of **Screw C**.
+Insert **Link 1** fully into the bearing hole. Secure **Link 1** onto the servo horn of **Servo 1** using four **Screw C** screws.
 
 <img src="media/link_1_1.png" width="600"/>
 
-Secure **Servo 2** onto **Link 1** using four of **Screw A**. Connect **Servo 2** to **Servo 1**.
+Secure **Servo 2** onto **Link 1** using four **Screw A** screws. Connect **Servo 2** to the **U2D2 Power Hub Board**.
 
 **Note:** For the purpose of this assembly tutorial, ensure the orientation of **Servo 2** matches that of the provided images,
 where the side of the servo horn is facing the viewer. On the other side of **Servo 2**, also ensure that **Servo 2**'s idler is installed. 
@@ -268,6 +263,40 @@ where the side of the servo horn is facing the viewer. On the other side of **Se
 
 
 #### Link 2
-Slide **Link 2** onto the servo horn of **Servo 2** and secure it via seven of **Screw E**.
+Slide **Link 2** onto the servo horn of **Servo 2** and secure it via seven **Screw E** screws.
 
 <img src="media/link_2_1.png" width="600"/>
+
+Secure **Servo 3** onto **Link 2** with four **Screw B** screws. Connect **Servo 3** to **Servo 2**.
+
+**Note:** Please ensure the orientation of the servo matches the image shown below.
+
+<img src="media/link_2_2.png" width="600"/>
+
+
+#### Link 3
+Secure **Link 3** onto the servo horn of **Servo 3** using four **Screw C** screws.
+
+**Note:** If you choose to increase the force-feedback gain to enhance the force-feedback sensation, 
+consider replacing **Servo 3**'s plastic servo horn to a 
+[metal version](https://www.robotis.us/hnx330-n101-set/?srsltid=AfmBOop3pO_EHjoTXnjaf3ZWbRD_CDD0ClY2xiPG_qw5SiEay-YZPcLH).
+The default plastic horn may be prone to failure under higher loads.
+ 
+<img src="media/link_3_1.png" width="600"/>
+
+Secure **Servo 4** onto **Link 3** using four **Screw A** screws. Ensure **Servo 4**'s idler is installed.
+Connect **Servo 4** to **Servo 3**.
+
+**Note:** Please ensure the orientation of the servo matches the image shown below, with the side of te servo horn facing the viewer.
+
+<img src="media/link_3_2.png" width="600"/>
+
+
+#### Link 4
+Slide **Link 4** onto the servo horn of **Servo 2** and secure it via seven **Screw E** screws.
+
+<img src="media/link_4_1.png" width="600"/>
+
+Secure **Servo 5** onto the **Link 4** using four **Screw B** screws. Connect **Servo 5** to **Servo 4**.
+
+<img src="media/link_4_2.png" width="600"/>
