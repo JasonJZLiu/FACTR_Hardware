@@ -293,10 +293,54 @@ Connect **Servo 4** to **Servo 3**.
 
 
 #### Link 4
-Slide **Link 4** onto the servo horn of **Servo 2** and secure it via seven **Screw E** screws.
+Slide **Link 4** onto the servo horn of **Servo 4** and secure it via seven **Screw E** screws.
 
 <img src="media/link_4_1.png" width="600"/>
 
 Secure **Servo 5** onto the **Link 4** using four **Screw B** screws. Connect **Servo 5** to **Servo 4**.
 
 <img src="media/link_4_2.png" width="600"/>
+
+
+#### Link 5
+Secure **Link 5** onto the servo horn of **Servo 5** using four **Screw C** screws.
+
+<img src="media/link_5_1.png" width="600"/>
+
+Secure **Servo 6** onto **Linke 5** Using four **Screw B** screws. Install **Servo 6**'s idler. Connect
+**Servo 6** to **Servo 5**.
+
+**Note:** Please ensure the orientation of the servo matches the image shown below, with the side of te servo horn facing the viewer
+and its idler facing away from the viewer.
+
+<img src="media/link_5_2.png" width="600"/>
+
+
+#### Link 6
+Slide **Link 6** onto the servo horn of **Servo 6** and secure it using eight **Screw D** screws.
+
+<img src="media/link_6_1.png" width="600"/>
+
+Secure **Servo 7** onto **Link 6** using four **Screw B** screws. Connect **Servo 7** to **Servo 6**.
+
+<img src="media/link_6_2.png" width="600"/>
+
+
+Secure **Servo Bracket** onto the servo horn of **Servo 7** using four **Screw F** screws.
+
+<img src="media/link_6_3.png" width="600"/>
+
+
+#### Gripper Teleop Leader
+Secure **Gripper Handle** onto **Servo Bracket** using four **Screw C** screws.
+
+<img src="media/gripper_leader_1.png" width="600"/>
+
+Slide **Servo 8** into **Gripper Handle** and secure it from the back using four **Screw C** screws.
+Connect **Servo 8** to **Servo 7**.
+
+<img src="media/gripper_leader_2.png" width="600"/>
+
+Secure **Gripper Trigger** onto the servo horn of **Servo 8** using four **Screw C** screws.
+
+<img src="media/gripper_leader_3.png" width="600"/>
