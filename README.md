@@ -97,6 +97,13 @@ _Carnegie Mellon University_
       <td><a href="">Purchase Link</a></td>
     </tr>
     <tr>
+      <td>Robot Cable-X3P 180mm (10pcs)</td>
+      <td>1</td>
+      <td>19.00</td>
+      <td>19.00</td>
+      <td><a href="https://www.robotis.us/robot-cable-x3p-180mm-10pcs/">Purchase Link</a></td>
+    </tr>
+    <tr>
       <td>M2.5×8mm</td>
       <td>#</td>
       <td>N/A</td>
@@ -241,6 +248,16 @@ Slide **Servo 1** such that its servo horn is concentric with the bearing.
 
 <img src="media/base_link_2.png" width="600"/>
 
-On the under-side of the **base link**, secure **Servo 1** with four of **Screw B**.
+On the under-side of the **base link**, secure **Servo 1** with four of **Screw B**. Connect **Servo 1** to the **U2D2 Power Hub Board**. 
 
 <img src="media/base_link_3.png" width="600"/>
+
+
+#### Link 1
+Insert **Link 1** fully into the bearing. Secure **Link 1** onto the servo horn of **Servo 1** using four of **Screw C**.
+
+<img src="media/link_1_1.png" width="600"/>
+
+Secure **Servo 2** onto **Link 1** using four of **Screw A**.
+
+<img src="media/link_1_2.png" width="600"/>
