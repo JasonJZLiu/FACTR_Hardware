@@ -258,6 +258,16 @@ Insert **Link 1** fully into the bearing. Secure **Link 1** onto the servo horn 
 
 <img src="media/link_1_1.png" width="600"/>
 
-Secure **Servo 2** onto **Link 1** using four of **Screw A**.
+Secure **Servo 2** onto **Link 1** using four of **Screw A**. Connect **Servo 2** to **Servo 1**.
+
+**Note:** For the purpose of this assembly tutorial, ensure the orientation of **Servo 2** matches that of the provided images,
+where the side of the servo horn is facing the viewer. On the other side of **Servo 2**, also ensure that **Servo 2**'s idler is installed. 
+
 
 <img src="media/link_1_2.png" width="600"/>
+
+
+#### Link 2
+Slide **Link 2** onto the servo horn of **Servo 2** and secure it via seven of **Screw E**.
+
+<img src="media/link_2_1.png" width="600"/>
