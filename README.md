@@ -22,6 +22,7 @@ _Carnegie Mellon University_
 
 
 ## Bill of Materials
+All costs are listed in USD.
 <table>
   <thead>
     <tr>
