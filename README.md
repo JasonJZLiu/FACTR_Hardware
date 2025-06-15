@@ -70,6 +70,20 @@ All costs are listed in USD.
       <td><a href="https://www.robotis.us/fpx330-s102-4pcs-set/">Purchase Link</a></td>
     </tr>
     <tr>
+      <td>Servo Idler for XM430 Servos</td>
+      <td>2</td>
+      <td>19.58</td>
+      <td>39.16</td>
+      <td><a href="https://www.robotis.us/hn12-i101-set/?srsltid=AfmBOooTVv1ehj551FepxB_NaPDrjRdgRIVPH26-N-vjoncqV3CZYdAC">Purchase Link</a></td>
+    </tr>
+    <tr>
+      <td>Servo Idler for XC330 Servos</td>
+      <td>1</td>
+      <td>10.78</td>
+      <td>10.78</td>
+      <td><a href="https://www.robotis.us/fpx330-h101-4pcs-set/?srsltid=AfmBOopdWLnJLGadW4_-EK1PhWCb8sMwZvdChQUPqFrf1NNLNWeow4cJ">Purchase Link</a></td>
+    </tr>
+    <tr>
       <td>Polymaker PLA PRO Filament</td>
       <td>1</td>
       <td>24.99</td>
@@ -135,7 +149,7 @@ All costs are listed in USD.
     </tr>
     <tr>
       <td colspan="3"><b>Total</b></td>
-      <td colspan="2"><b>1229.95</b></td>
+      <td colspan="2"><b>1279.89</b></td>
     </tr>
   </tbody>
 </table>
